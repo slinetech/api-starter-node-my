@@ -1,0 +1,20 @@
+{
+  "name": "api-starter-node-my",
+  "version": "1.0.0",
+  "description": "quick start to generate api with user roles and be able to create applications to your liking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slinetech/api-starter-node-my.git"
+  },
+  "keywords": [],
+  "author": "XAVIER RAYAS OSUNA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slinetech/api-starter-node-my/issues"
+  },
+  "homepage": "https://github.com/slinetech/api-starter-node-my#readme"
+}
